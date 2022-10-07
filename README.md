@@ -1,6 +1,6 @@
 # DBMS PROGRAMS
 ## EXPERIMENT 01
-
+[OUERY LINK](https://github.com/192121109/DBMS/blob/main/EXPERIMENT%2001)
 ![Experiment 1](https://user-images.githubusercontent.com/113327113/194225740-61f95274-bbb3-4688-b104-a92dbbcf009e.png)
 ![ex1](https://user-images.githubusercontent.com/113327113/194225738-da24d77a-b80b-46fd-b363-ed29c593b6ce.png)
 ![ex1a](https://user-images.githubusercontent.com/113327113/194226070-3da23467-3707-4de4-9565-30baad83e777.png)
