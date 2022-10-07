@@ -38,10 +38,15 @@
 [OUERY LINK](https://github.com/192121109/DBMS/blob/main/EXPERIMENT%2005)
 
 ![exper 5](https://user-images.githubusercontent.com/113327113/194227607-df85bfff-4df1-4ec7-a70d-3b4e31c31f3b.png)
+
 ![ex 5a](https://user-images.githubusercontent.com/113327113/194227605-d62d3e2a-0a11-42e8-9742-92a7421b0f94.png)
+
 ![exper 5b](https://user-images.githubusercontent.com/113327113/194227603-c05bc225-a7c5-4c98-ba90-4fb390ecc5cc.png)
+
 ![ex5c](https://user-images.githubusercontent.com/113327113/194227602-05f1a036-20b6-4205-b4c6-62b584910317.png)
+
 ![ex5d](https://user-images.githubusercontent.com/113327113/194227598-361f7ed5-9b1d-443b-886e-eb5e8c4129d9.png)
+
 ![ex5e](https://user-images.githubusercontent.com/113327113/194227595-322880bf-4afb-4d37-abb5-2138938ee708.png)
 
 ## EPERIMENT 06
@@ -172,9 +177,13 @@
 [OUERY LINK](https://github.com/192121109/DBMS/blob/main/EXPERIMENT%2025)
 
 ![ex 25](https://user-images.githubusercontent.com/113327113/194263532-49c02101-dc4f-4888-936f-63d8b46b207a.png)
+
 ![ex 25a](https://user-images.githubusercontent.com/113327113/194263580-6f50eb2b-c438-4ad3-918c-93634bcce85f.png)
+
 ![ex 25b](https://user-images.githubusercontent.com/113327113/194263627-f4f07e7b-876b-4b99-8a5f-8af1445e474d.png)
+
 ![ex 25c](https://user-images.githubusercontent.com/113327113/194263901-47f6d6c1-8442-4036-a6eb-f99d398e8567.png)
+
 ![ex 25 d](https://user-images.githubusercontent.com/113327113/194263944-f8f2a771-6559-4044-9032-1bddf65a401c.png)
 
 
